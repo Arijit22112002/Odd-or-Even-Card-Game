@@ -1,10 +1,10 @@
 # Odd-or-Even-Card-Game
-About the Project:- 
+## About the Project:- 
 
-1] I have created an Odd or Even Card Game (Human vs Human) Mobile Application for Android OS.
+### 1] I have created an Odd or Even Card Game (Human vs Human) Mobile Application for Android OS.
 
 
-2] User Requirements:
+### 2] User Requirements:
 
 *The system must support two users on the same device.
 
@@ -17,7 +17,7 @@ About the Project:-
 *Final results and scores should be displayed clearly.
 
 
-3] Key Features-
+### 3] Key Features-
 
 i} Automated Deck Management:
 
@@ -44,7 +44,7 @@ An intuitive graphical interface displaying cards, guesses, results, and scores.
 Clear buttons for actions like "Play Game" and "Exit".
 
 
-4] User Requirements
+### 4] User Requirements
 
 i} The system must support two users on the same device.
 
@@ -57,7 +57,7 @@ iv} The system must calculate and show results dynamically.
 v} Final results and scores should be displayed clearly.
 
 
-5] Operating Environment – Hardware and Software 
+### 5] Operating Environment – Hardware and Software 
 
 i} Hardware:
 
