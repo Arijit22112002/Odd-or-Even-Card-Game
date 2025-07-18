@@ -1,4 +1,4 @@
-# Odd-or-Even-Card-Game
+# Odd-or-Even-Card-Game (Human vs Human)
 
 
 ## About the Project:- 
