@@ -1,6 +1,49 @@
 # Odd-or-Even-Card-Game (Human vs Human)
 
 
+## Game Setup and Rules:
+
+
+### Setup:
+
+
+i} Two players draw cards from a shuffled standard 52-card deck.
+
+ii} Each round, both players draw one card each.
+
+
+### 🎯 Objective:
+
+
+Each player guesses whether the sum of the two cards will be odd or even.
+
+
+### 🃏 Card Values:
+
+
+Ace = 1
+
+Jack = 11
+
+Queen = 12
+
+King = 13
+
+2–10 = respective face value
+
+
+### 🏁 Winning a Round:
+
+
+i} After drawing, the sum is calculated.
+
+ii} If a player’s guess matches the parity (odd/even) of the sum, they gain a point.
+
+iii} If both guess wrong, no point awarded.
+
+iv} If both guess right, it's a tie; both get 1 point.
+
+
 ## About the Project:- 
 
 
