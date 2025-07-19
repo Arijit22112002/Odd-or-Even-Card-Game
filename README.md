@@ -90,20 +90,7 @@ An intuitive graphical interface displaying cards, guesses, results, and scores.
 Clear buttons for actions like "Play Game" and "Exit".
 
 
-### 4] User Requirements
-
-i} The system must support two users on the same device.
-
-ii} It should display the drawn cards visually.
-
-iii} The user must be able to input their guesses (odd/even).
-
-iv} The system must calculate and show results dynamically.
-
-v} Final results and scores should be displayed clearly.
-
-
-### 5] Operating Environment – Hardware and Software 
+### 4] Operating Environment – Hardware and Software 
 
 i} Hardware:
 
@@ -122,7 +109,7 @@ ii} Software:
 *Android SDK and Gradle for build and deployment
 
 
-### 6] Project Screenshots
+### 5] Project Screenshots
 
 
 ![0](https://github.com/user-attachments/assets/f9ae8374-2e73-45dc-a800-7be9a97f73d0)
